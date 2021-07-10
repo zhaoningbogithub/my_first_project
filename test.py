@@ -2,7 +2,7 @@ import requests
 import flask
 
 def test():
-	b = 1
+	b = 2
 	c = 2
 	a = b+c
 
